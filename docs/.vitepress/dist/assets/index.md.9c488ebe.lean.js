@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.9300edca.js";const u='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1656950357082}',s={},n=o("p",null,"deploy init",-1),c=[n];function r(d,i,p,_,l,f){return a(),t("div",null,c)}var x=e(s,[["render",r]]);export{u as __pageData,x as default};
