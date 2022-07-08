@@ -1,1 +1,1 @@
-deploy init
+测试自动部署成功
