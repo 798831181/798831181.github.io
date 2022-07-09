@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.febcf349.js";const i='{"title":"","description":"","frontmatter":{},"relativePath":"about.md","lastUpdated":1657387793340}',o={};function r(c,s,n,p,_,d){return a(),e("div")}var l=t(o,[["render",r]]);export{i as __pageData,l as default};
