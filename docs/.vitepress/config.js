@@ -1,8 +1,11 @@
 
 module.exports = {
-    title:"cake",
+    title:"s-note",
     base: '/', 
-    lang: 'en-US'
-    
-    
+    lang: 'en-US',
+    themeConfig:{
+      nav:[
+        {test:'index', link:'/index'}
+      ]
+    }
   }
