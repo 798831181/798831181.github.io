@@ -5,7 +5,8 @@ module.exports = {
     lang: 'en-US',
     themeConfig:{
       nav:[
-        {test:'index', link:'/index'}
+        {text:'index', link:'/index'},
+        {text:'about', link:'/about'}
       ]
     }
   }
