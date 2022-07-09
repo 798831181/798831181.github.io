@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.19df7882.js";const u='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1657377700951}',s={},n=o("p",null,"\u6D4B\u8BD5\u81EA\u52A8\u90E8\u7F72\u6210\u529F",-1),r=[n];function c(d,_,p,i,l,f){return a(),t("div",null,r)}var x=e(s,[["render",c]]);export{u as __pageData,x as default};
