@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.ec70bfcd.js";const u='{"title":"","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1657427424576}',s={},c=o("p",null,"\u6D4B\u8BD5\u81EA\u52A8\u90E8\u7F72\u6210\u529F",-1),n=[c];function r(d,_,p,i,l,f){return a(),t("div",null,n)}var x=e(s,[["render",r]]);export{u as __pageData,x as default};
