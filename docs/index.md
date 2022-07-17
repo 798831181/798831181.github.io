@@ -4,7 +4,7 @@ layout: home
 hero:
   name: s-note
   text: Learn & Share
-  tagline: Lorem ipsum...
+  tagline: 
   actions:
     - theme: brand
       text: Get Started
