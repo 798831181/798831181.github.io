@@ -5,8 +5,7 @@ module.exports = {
     lang: 'en-US',
     themeConfig:{
       nav:[
-        {text:'index', link:'/index'},
-        {text:'about', link:'/about'}
+        {text:'index', link:'/index'}
       ],
       sidebar:[
         {
@@ -25,6 +24,10 @@ module.exports = {
             {
               text:'介绍',
               link:'/core-java/'
+            },
+            {
+              text:'java防止反编译技术方案与实现',
+              link:'/core-java/anti-decompile.html'
             }
           ]
           
