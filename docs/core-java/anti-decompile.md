@@ -12,9 +12,6 @@
 
 Ja v a 类文件是 8 位字节 的二进制流 。 数据项按顺序存储在类文件 中。
 
-![image-20220828210152616](C:\Users\sunqichao\AppData\Roaming\Typora\typora-user-images\image-20220828210152616.png)
-
-![image-20220828222228165](C:\Users\sunqichao\AppData\Roaming\Typora\typora-user-images\image-20220828222228165.png)
 
 具体介绍参考
 
@@ -23,15 +20,6 @@ Ja v a 类文件是 8 位字节 的二进制流 。 数据项按顺序存储在�
 
 
 ## 类加载器
-
-
-
-![image-20220828222505936](C:\Users\sunqichao\AppData\Roaming\Typora\typora-user-images\image-20220828222505936.png)
-
-
-
-![image-20220828222410245](C:\Users\sunqichao\AppData\Roaming\Typora\typora-user-images\image-20220828222410245.png)
-
 
 
 ## java代码保护策略
