@@ -30,7 +30,16 @@ module.exports = {
               link:'/core-java/anti-decompile.html'
             }
           ]
-          
+        },
+        {
+          text:'框架和工具',
+          collapsible: true,
+          items:[
+            {
+              text:'easy excel',
+              link:'/third-part/easy-excel.html'
+            }
+          ]
         }
         ]
     
