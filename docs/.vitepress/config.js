@@ -13,7 +13,8 @@ module.exports = {
             collapsible: true,
             items:[
               {
-                text:'vitePress介绍', link:'/quick-start/'
+                text:'vitePress介绍', 
+                link:'/quick-start/'
               }
             ]
         },
@@ -38,6 +39,14 @@ module.exports = {
             {
               text:'easy excel',
               link:'/third-part/easy-excel.html'
+          
+        },{
+          text: 'Redis',
+          collapsible:true,
+          items:[
+            {
+              text:'Redis',
+              link:'/redis/'
             }
           ]
         }
