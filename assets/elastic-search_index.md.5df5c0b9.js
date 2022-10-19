@@ -15,4 +15,4 @@ import{_ as s,c as a,o as n,a as e}from"./app.671628b7.js";const h=JSON.parse('{
 <span class="line"><span style="color:#A6ACCD;">        </span><span style="color:#89DDFF;">}</span></span>
 <span class="line"><span style="color:#A6ACCD;">    </span><span style="color:#89DDFF;">}</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span></span>
-<span class="line"></span></code></pre></div><h3 id="named-queries" tabindex="-1">Named queries <a class="header-anchor" href="#named-queries" aria-hidden="true">#</a></h3>`,10),p=[o];function t(c,r,i,D,F,y){return n(),a("div",null,p)}const u=s(l,[["render",t]]);export{h as __pageData,u as default};
+<span class="line"></span></code></pre></div><h4 id="constants-score-query" tabindex="-1">Constants score query <a class="header-anchor" href="#constants-score-query" aria-hidden="true">#</a></h4><h3 id="named-queries" tabindex="-1">Named queries <a class="header-anchor" href="#named-queries" aria-hidden="true">#</a></h3>`,11),t=[o];function p(r,c,i,D,F,y){return n(),a("div",null,t)}const u=s(l,[["render",p]]);export{h as __pageData,u as default};
