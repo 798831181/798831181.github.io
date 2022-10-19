@@ -9,17 +9,17 @@ module.exports = {
       ],
       sidebar:[
         {
-            text:'quick-start',
+            text:'Quick Start',
             collapsible: true,
             items:[
               {
-                text:'vitePress介绍', 
+                text:'站点介绍', 
                 link:'/quick-start/'
               }
             ]
         },
         {
-          text:'java核心技术',
+          text:'JAVA核心技术',
           collapsible: true,
           items:[
             {
