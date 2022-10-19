@@ -34,5 +34,7 @@
 }
 ```
 
+ #### Constants score query
+
 
 ### Named queries

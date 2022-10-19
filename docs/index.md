@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: s-note
-  text: Learn & Share
+  name: ALL-KINDS-VEGETABLES
+  text: 今天你有没有健身
   tagline: 
   actions:
     - theme: brand
