@@ -1,6 +1,6 @@
 
 module.exports = {
-    title:"s-note",
+    title:"ALL KINDS VEGETABLES",
     base: '/', 
     lang: 'en-US',
     themeConfig:{
